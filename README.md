@@ -28,4 +28,4 @@ Web presence for curating research activities related to the Dagstuhl Seminar 23
 # List of Publications
 
 
-# Data Curration
+# Data Curation
